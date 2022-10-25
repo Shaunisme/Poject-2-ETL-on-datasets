@@ -14,16 +14,22 @@
 
 As a group we decided to examine if there was a relationship between civilian unemployment rate and closing market bid yields on actively traded Treasury securities in the over-the-counter market. The project will be a result of our combined work and we will attempt to come to a conclusion on the effects each data set has on one another. 
 
+
 The purpose of this project is to:
 
 •	Extract – getting data from the original website sources
+
 •	Transform – cleaning and structuring the data in our desired form
+
 •	Load – writing the data into a Postgres database for storage
+
 
 The datasets we will use for this project were in the form of csv files and retrieved from:
 
 •	US Federal Reserve website (https://www.federalreserve.gov/releases/h15/)
+
 •	US Data Catalog website (https://catalog.data.gov/dataset/civilian-unemployment-rate-for-us-and-california)
+
 
 As we worked through the ETL process, we were able to create a basic time-series graph which shows the possible correlation between civilian unemployment rates and Treasury securities yield rates. The graph spans over 60 years and shows the increases and decreases of rates for the respective datasets. We used the Postgres database as we found a direct correlation between the two datasets .
 
