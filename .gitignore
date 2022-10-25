@@ -3,6 +3,7 @@ ETL_config.py
 __pycache__/
 *.py[cod]
 *$py.class
+ETL_config.py
 
 # C extensions
 *.so
