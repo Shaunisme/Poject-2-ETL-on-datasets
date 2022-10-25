@@ -7,14 +7,15 @@ treasury_securities_3y FLOAT ,
 treasury_securities_5y FLOAT ,
 treasury_securities_10y FLOAT
 );
-
+drop table IF EXISTS  unemployee_rate;
 drop table IF EXISTS  unemployment_rate;
-CREATE TABLE unemployee_rate (
+CREATE TABLE unemployment_rate (
 data_date date PRIMARY KEY,
 rate_seasonally_adjusted float,
 rate_not_seasonally_adjusted float
 );
 
+-- Join 2 table
 SELECT 
 	ts.data_date, 
 	ts.treasury_securities_1y, 
