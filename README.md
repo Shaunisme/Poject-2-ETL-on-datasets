@@ -127,6 +127,8 @@ cleaning and structuring the data in our desired form
 
 
 ### Why the topic was chosen 
+
+- We chose this topic because it would be very interesting to find out if there is a direct correlation between unemployment rates and treasury yield rates. As we have just experienced a pandemic, we could most likely see a spike in unemployment rates during the 2020 period, and it would be interesting to see how that had an effect on yield rates.
 - The major and interesting finding is that over the time period, treasury securities yield rates would increase when civilian unemployment rates decreased. This would also be the case oppositely as when civilian unemployment rates increased, treasury securities yield rates would decrease. 
 
 
