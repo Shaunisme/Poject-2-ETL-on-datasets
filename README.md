@@ -26,7 +26,11 @@ The purpose of this project is to:
 
 The datasets we will use for this project were in the form of csv files and retrieved from:
 
+![www.federalreserve.gov](https://i.imgur.com/bYgEKsA.jpeg)
+
 •	US Federal Reserve website (https://www.federalreserve.gov/releases/h15/)
+
+![Data.gov](https://thevine.io/wp-content/uploads/2018/05/data.gov_.png)
 
 •	US Data Catalog website (https://catalog.data.gov/dataset/civilian-unemployment-rate-for-us-and-california)
 
@@ -40,7 +44,8 @@ The major and interesting finding is that over the time period, treasury securit
 
 #Extract:
 
-Data source: https://www.federalreserve.gov/releases/h15/
+- Data source 1: https://www.federalreserve.gov/releases/h15/
+- Data source 2: https://catalog.data.gov/dataset/civilian-unemployment-rate-for-us-and-california
 
 
 Dataset 1:
@@ -131,5 +136,5 @@ cleaning and structuring the data in our desired form
 - We chose this topic because it would be very interesting to find out if there is a direct correlation between unemployment rates and treasury yield rates. As we have just experienced a pandemic, we could most likely see a spike in unemployment rates during the 2020 period, and it would be interesting to see how that had an effect on yield rates.
 - The major and interesting finding is that over the time period, treasury securities yield rates would increase when civilian unemployment rates decreased. This would also be the case oppositely as when civilian unemployment rates increased, treasury securities yield rates would decrease. 
 
-
+![](https://i.imgur.com/6pvKA5z.png)
 
